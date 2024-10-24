@@ -13,8 +13,8 @@ Dataset Columns
 Requirements
 - Python 3+
 Open-source libraries:
-- pandas
-- numpy
-- seaborn
-- matplotlib
-- sklearn
+- pandas 2.2.2
+- numpy 1.26.4
+- seaborn 0.13.2
+- matplotlib 3.8.4
+- sklearn 1.4.2
